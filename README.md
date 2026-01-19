@@ -27,9 +27,9 @@ Core entry point:
 
 ### Background & links
 
+- The Article: `https://www.dmytrohuz.com/p/building-own-mac-part-2-fixing-aes`
 - Series homepage: `https://www.dmytrohuz.com/p/rebuilding-cryptography-from-scratch`
 - Author’s Substack: `https://www.dmytrohuz.com/`
-- This repository will be referenced from a dedicated article about MACs (link to be added once published).
 
 ### Requirements
 
