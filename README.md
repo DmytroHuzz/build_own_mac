@@ -2,7 +2,7 @@
 
 This project explores how to implement Message Authentication Codes (MACs) "from scratch" in Python, starting from basic cryptographic building blocks rather than high-level convenience APIs.
 
-It is planned as part of a broader "rebuilding cryptography from scratch" series that I’m writing about on my site and newsletter.
+It is part of a broader "rebuilding cryptography from scratch" series published through [Software in the Grid](https://www.softwareinthegrid.com/).
 
 > Educational only — do not use this as-is in production. Prefer well‑tested library implementations when building real systems.
 
@@ -27,9 +27,9 @@ Core entry point:
 
 ### Background & links
 
-- The Article: `https://www.dmytrohuz.com/p/building-own-mac-part-2-fixing-aes`
-- Series homepage: `https://www.dmytrohuz.com/p/rebuilding-cryptography-from-scratch`
-- Author’s Substack: `https://www.dmytrohuz.com/`
+- Article: https://www.softwareinthegrid.com/p/building-own-mac-part-2-fixing-aes
+- Series homepage: https://www.softwareinthegrid.com/p/rebuilding-cryptography-from-scratch
+- Publication: https://www.softwareinthegrid.com/
 
 ### Requirements
 
